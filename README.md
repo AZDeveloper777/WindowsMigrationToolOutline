@@ -1,6 +1,6 @@
 Goal: Develop a sustainable FOSS Windows 10/11 application that will help mostly-non-technical Windows users migrate to Linux
 
-For the application to be sustainable, it will need $.  To generate those $, we should use sponsored links that benefit a non-profit that pays for development, support and other expenses.
+For the application to be sustainable, it will need revenue.  To generate that revenue, we could use sponsored links that benefit a non-profit that pays for development, support and other expenses.
 
 Use case:  
 A non-technical Windows 10/11 user desires to migrate away from Windows.  
