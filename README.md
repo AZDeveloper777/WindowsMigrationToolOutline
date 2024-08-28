@@ -9,9 +9,9 @@ This application would do the following:
 2. Run analysis of that data model and make reasonable recommendations.  
 3. Facilitate the implementation of those recommendations should the user choose to act.
 
-If there are empty RAM slots or if RAM can be upgraded, generate sponsored links for the exact parts the user would need.
-If the system has unused NVMe slots, sponsored links for a good value NVMe SSD.
-If the system is on SATA spinning disks, sponsored links for SATA SSD.
+If there are empty RAM slots or if RAM can be upgraded, generate sponsored links for the exact parts the user would need.  
+If the system has unused NVMe slots, sponsored links for a good value NVMe SSD.  
+If the system is on SATA spinning disks, sponsored links for SATA SSD.  
 etc.
 
 What question(s) should we ask to determine if the user should be guided towards a rolling release or a traditional release cycle ?  
